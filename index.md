@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Your Name Here
+# Jordan Rodriguez
 
-[Paste your professional paragraph from Week 2 here]
+Jordan Rodriguez is a future computer scientist. He uses his knowledge of cybersecurity and programming to analyze threats and implement effective security measures. He has created projects in C, Java, and Python through his work at UCF, where he majors in computer science. The projects in this portfolio showcase his technical skills, problem-solving abilities, and commitment to the cybersecurity field.
 
 ## Professional Writing Samples/Projects
 
