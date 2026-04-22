@@ -9,17 +9,17 @@ March 4th, 2026
 
 Jordan Rodriguez
 
-Orlando, FL
+5555 Jorod Drive
 
-<jo801897@ucf.edu>
+Orlando, FL
 
 Andrew Wilson
 
 Electronic Arts
 
-1950 Summit Park Drive
+5555 Electric Arts Drive
 
-Orlando, FL 32810
+Orlando, FL
 
 Dear Mr. Wilson,
 
