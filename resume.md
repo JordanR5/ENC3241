@@ -3,6 +3,9 @@ layout: default
 title: Resume
 ---
 
+
+# Resume
+
 **Jordan Rodriguez**
 
 <Jo555555@ucf.edu>| Orlando, Florida
